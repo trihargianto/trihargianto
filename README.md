@@ -6,7 +6,7 @@ Currently, I'm helping to build [Mamikos](https://mamikos.com) and also actively
 
 ### Get in Touch 💌 
 
-🌏 Personal Website: https://trihargianto.com
-👔 LinkedIn: https://www.linkedin.com/in/trihargianto
-✍️ Medium: https://medium.com/@trihargianto
-📓 Resume: https://trihargianto.notion.site/trihargianto/Resume-e7af731cfb5a473e8ef128b18a5c35ce
+- 🌏 Personal Website: https://trihargianto.com
+- 👔 LinkedIn: https://www.linkedin.com/in/trihargianto
+- ✍️ Medium: https://medium.com/@trihargianto
+- 📓 Resume: https://trihargianto.notion.site/trihargianto/Resume-e7af731cfb5a473e8ef128b18a5c35ce
