@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based in Yogyakarta, Indonesia 🇮🇩 with more than 10+ years of experience. I write code for the web and always been fascinated with web development and enjoy building web apps. 
 
-Currently, I'm helping to build <a href="https://mamikos.com" target="_blank">Mamikos</a> and also actively organizing <a href="https://github.com/jogjajs" target="_blank">JogjaJS</a> community.
+Currently, I'm a Tech Lead (Frontend) at <a href="https://mamikos.com" target="_blank">Mamikos</a> and also actively organizing <a href="https://github.com/jogjajs" target="_blank">JogjaJS</a> community.
 
 ## ✍️ Latest Articles
 
