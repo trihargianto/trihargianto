@@ -6,7 +6,7 @@ Currently, I'm a Tech Lead (Frontend) at <a href="https://mamikos.com" target="_
 
 ## ✍️ Latest Articles
 
-- 🧠 <a href="https://www.trihargianto.com/perjalanan-belajar-vim/" target="_blank">Perjalanan Belajar & Pendapat Saya tentang Vim</a>
+- 🧠 <a href="https://www.trihargianto.com/en/my-thoughts-on-vim/" target="_blank">My Thoughts About Vim and How I Learnt to Use It</a>
 - 🌏 <a href="https://medium.com/mamitech/deciding-the-minimum-browser-versions-to-be-supported-in-mamikos-com-e493d2d04caf" target="_blank">Deciding the Minimum Browser Versions to be Supported in Mamikos.com</a>
 - 🤔 <a href="https://medium.com/mamitech/pull-request-principles-in-mamikos-ab6a7390aeac" target="_blank">Pull Request Principles</a>
 - 🎨 <a href="https://www.trihargianto.com/cerita-proses-membangun-design-system-di-mamikos/" target="_blank">Cerita Proses Membangun Design System di Mamikos</a>
