@@ -17,4 +17,4 @@ Currently, I'm a Tech Lead (Frontend) at <a href="https://mamikos.com" target="_
 - 🌏 Personal Website: <a href="https://trihargianto.com" target="_blank"> https://trihargianto.com </a>
 - 👔 LinkedIn: <a href="https://www.linkedin.com/in/trihargianto" target="_blank"> https://www.linkedin.com/in/trihargianto </a>
 - ✍️ Medium: <a href="https://medium.com/@trihargianto" target="_blank"> https://medium.com/@trihargianto </a>
-- 📓 Resume: <a href="https://trihargianto.notion.site/trihargianto/Resume-e7af731cfb5a473e8ef128b18a5c35ce" target="_blank"> https://trihargianto.notion.site/trihargianto/Resume-e7af731cfb5a473e8ef128b18a5c35ce </a>
+- 📓 Resume: <a href="https://bit.ly/resume-tri-hargianto" target="_blank"> https://bit.ly/resume-tri-hargianto </a>
